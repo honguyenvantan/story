@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: BlogCloud365
-url: "http://blogcloud365vn.github.io/"
-baseurl: 
+title: Tan's Blog
+url: ""
+baseurl: /story
 google_analytics_key: UA-132756645-1
 disqus_shortname: congto
 newsletter_action:
